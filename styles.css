@@ -1,0 +1,17 @@
+.main {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.main input {
+    padding: 15px 200px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10em;
+    text-align: left;
+}
+
+.btn {
+    padding: 8px 10px;
+    font-size: 1em;
+}
